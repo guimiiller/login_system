@@ -1,0 +1,18 @@
+.App {
+    text-align: center;
+    color: #c5c5c5;
+}
+
+nav a {
+    color: #c5c5c5;
+    display: inline-block;
+    margin: 0 20px;
+}
+
+nav a:hover{
+    color: #FFF;
+}
+
+h1{
+    text-transform: uppercase;
+}
